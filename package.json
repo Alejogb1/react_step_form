@@ -24,5 +24,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "> Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejogb1/react_step_form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejogb1/react_step_form/issues"
+  },
+  "homepage": "https://github.com/Alejogb1/react_step_form#readme"
 }
